@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "BINARYSEACH.C": "cpp",
+        "POINTERTOPOINTER.C": "cpp",
+        "INFIXTOPOSTFIX.C": "cpp",
+        "CIRCULARQUEUEARRAY.C": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}
